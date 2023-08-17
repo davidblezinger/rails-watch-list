@@ -1,0 +1,29 @@
+.card-category {
+  background-size: cover;
+  background-position: center;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(94, 84, 76);
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin: 5px 5px;
+}
+
+.card-category a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.card-category a:hover {
+  color: rgb(255, 149, 0);
+}
